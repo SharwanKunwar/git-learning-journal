@@ -19,7 +19,20 @@ git branch "new-branch-name"
 ```
 
 ---
+## 🌿 Alternative Shortcut Learned
 
+Today I also learned that instead of creating and switching branches separately, Git provides a shortcut command to do both at once.
+
+### ✅ Create and Switch to a New Branch
+```bash
+git switch -c Sandesh
+```
+
+This command:
+- creates a new branch named `Sandesh`
+- immediately switches to that branch 🔄
+
+---
 ### 3️⃣ View All Branches
 ```bash
 git branch
