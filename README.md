@@ -109,6 +109,20 @@ git push -u origin your-branch-name
 ---
 <br>
 <br>
+<br>
+<br>
+
+# ⚠️ Contribution Rules
+
+    You are only allowed to make changes in:
+
+* Contributors.md 
+* work
+
+```
+❌ Do NOT modify any other files in the repository.
+✔️ Keep all changes limited to the allowed areas only.
+```
 
 
 # 🚀 Happy Coding
